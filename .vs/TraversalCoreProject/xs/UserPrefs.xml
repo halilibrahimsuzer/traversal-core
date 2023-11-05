@@ -1,4 +1,32 @@
-﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{C2C5A162-01D4-4F0E-A5ED-9E77D88B9B11}|Default">
-  <MonoDevelop.Ide.ItemProperties.TraversalCoreProject PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+﻿<Properties StartupConfiguration="{C2C5A162-01D4-4F0E-A5ED-9E77D88B9B11}|Default" GitUserInfo="UsingGIT">
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.EntityLayer FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="EntityLayer/Concrete/About.cs">
+    <Files>
+      <File FileName="EntityLayer/Concrete/Destination.cs" Line="17" Column="25" />
+      <File FileName="TraversalCoreProject/Views/Home/Index.cshtml" Line="10" Column="1" />
+      <File FileName="EntityLayer/Concrete/About.cs" Line="12" Column="41" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TraversalCoreProject" expanded="True">
+            <Node name="EntityLayer">
+              <Node name="Concrete">
+                <Node name="About.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BusinessLayer FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.DataAccessLayer FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.TraversalCoreProject PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
 </Properties>

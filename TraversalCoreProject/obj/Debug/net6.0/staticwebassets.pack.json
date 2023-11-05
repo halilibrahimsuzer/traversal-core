@@ -5,12 +5,220 @@
       "PackagePath": "staticwebassets/TraversalCoreProject.bundle.scp.css"
     },
     {
+      "Id": "/Users/his/Projects/TraversalCoreProject/TraversalCoreProject/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/his/Projects/TraversalCoreProject/TraversalCoreProject/wwwroot/about.html",
+      "PackagePath": "staticwebassets/about.html"
+    },
+    {
+      "Id": "/Users/his/Projects/TraversalCoreProject/TraversalCoreProject/wwwroot/assets/css/style-starter.css",
+      "PackagePath": "staticwebassets/assets/css/style-starter.css"
+    },
+    {
+      "Id": "/Users/his/Projects/TraversalCoreProject/TraversalCoreProject/wwwroot/assets/fonts/FontAwesome.otf",
+      "PackagePath": "staticwebassets/assets/fonts/FontAwesome.otf"
+    },
+    {
+      "Id": "/Users/his/Projects/TraversalCoreProject/TraversalCoreProject/wwwroot/assets/fonts/fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome-webfont.eot"
+    },
+    {
+      "Id": "/Users/his/Projects/TraversalCoreProject/TraversalCoreProject/wwwroot/assets/fonts/fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome-webfont.svg"
+    },
+    {
+      "Id": "/Users/his/Projects/TraversalCoreProject/TraversalCoreProject/wwwroot/assets/fonts/fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "/Users/his/Projects/TraversalCoreProject/TraversalCoreProject/wwwroot/assets/fonts/fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome-webfont.woff"
+    },
+    {
+      "Id": "/Users/his/Projects/TraversalCoreProject/TraversalCoreProject/wwwroot/assets/fonts/fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "/Users/his/Projects/TraversalCoreProject/TraversalCoreProject/wwwroot/assets/images/banner1.jpg",
+      "PackagePath": "staticwebassets/assets/images/banner1.jpg"
+    },
+    {
+      "Id": "/Users/his/Projects/TraversalCoreProject/TraversalCoreProject/wwwroot/assets/images/banner2.jpg",
+      "PackagePath": "staticwebassets/assets/images/banner2.jpg"
+    },
+    {
+      "Id": "/Users/his/Projects/TraversalCoreProject/TraversalCoreProject/wwwroot/assets/images/banner3.jpg",
+      "PackagePath": "staticwebassets/assets/images/banner3.jpg"
+    },
+    {
+      "Id": "/Users/his/Projects/TraversalCoreProject/TraversalCoreProject/wwwroot/assets/images/banner4.jpg",
+      "PackagePath": "staticwebassets/assets/images/banner4.jpg"
+    },
+    {
+      "Id": "/Users/his/Projects/TraversalCoreProject/TraversalCoreProject/wwwroot/assets/images/c1.jpg",
+      "PackagePath": "staticwebassets/assets/images/c1.jpg"
+    },
+    {
+      "Id": "/Users/his/Projects/TraversalCoreProject/TraversalCoreProject/wwwroot/assets/images/c2.jpg",
+      "PackagePath": "staticwebassets/assets/images/c2.jpg"
+    },
+    {
+      "Id": "/Users/his/Projects/TraversalCoreProject/TraversalCoreProject/wwwroot/assets/images/c3.jpg",
+      "PackagePath": "staticwebassets/assets/images/c3.jpg"
+    },
+    {
+      "Id": "/Users/his/Projects/TraversalCoreProject/TraversalCoreProject/wwwroot/assets/images/c4.jpg",
+      "PackagePath": "staticwebassets/assets/images/c4.jpg"
+    },
+    {
+      "Id": "/Users/his/Projects/TraversalCoreProject/TraversalCoreProject/wwwroot/assets/images/close.png",
+      "PackagePath": "staticwebassets/assets/images/close.png"
+    },
+    {
+      "Id": "/Users/his/Projects/TraversalCoreProject/TraversalCoreProject/wwwroot/assets/images/date.png",
+      "PackagePath": "staticwebassets/assets/images/date.png"
+    },
+    {
+      "Id": "/Users/his/Projects/TraversalCoreProject/TraversalCoreProject/wwwroot/assets/images/dots.png",
+      "PackagePath": "staticwebassets/assets/images/dots.png"
+    },
+    {
+      "Id": "/Users/his/Projects/TraversalCoreProject/TraversalCoreProject/wwwroot/assets/images/down.png",
+      "PackagePath": "staticwebassets/assets/images/down.png"
+    },
+    {
+      "Id": "/Users/his/Projects/TraversalCoreProject/TraversalCoreProject/wwwroot/assets/images/g1.jpg",
+      "PackagePath": "staticwebassets/assets/images/g1.jpg"
+    },
+    {
+      "Id": "/Users/his/Projects/TraversalCoreProject/TraversalCoreProject/wwwroot/assets/images/g10.jpg",
+      "PackagePath": "staticwebassets/assets/images/g10.jpg"
+    },
+    {
+      "Id": "/Users/his/Projects/TraversalCoreProject/TraversalCoreProject/wwwroot/assets/images/g2.jpg",
+      "PackagePath": "staticwebassets/assets/images/g2.jpg"
+    },
+    {
+      "Id": "/Users/his/Projects/TraversalCoreProject/TraversalCoreProject/wwwroot/assets/images/g3.jpg",
+      "PackagePath": "staticwebassets/assets/images/g3.jpg"
+    },
+    {
+      "Id": "/Users/his/Projects/TraversalCoreProject/TraversalCoreProject/wwwroot/assets/images/g4.jpg",
+      "PackagePath": "staticwebassets/assets/images/g4.jpg"
+    },
+    {
+      "Id": "/Users/his/Projects/TraversalCoreProject/TraversalCoreProject/wwwroot/assets/images/g5.jpg",
+      "PackagePath": "staticwebassets/assets/images/g5.jpg"
+    },
+    {
+      "Id": "/Users/his/Projects/TraversalCoreProject/TraversalCoreProject/wwwroot/assets/images/g6.jpg",
+      "PackagePath": "staticwebassets/assets/images/g6.jpg"
+    },
+    {
+      "Id": "/Users/his/Projects/TraversalCoreProject/TraversalCoreProject/wwwroot/assets/images/g7.jpg",
+      "PackagePath": "staticwebassets/assets/images/g7.jpg"
+    },
+    {
+      "Id": "/Users/his/Projects/TraversalCoreProject/TraversalCoreProject/wwwroot/assets/images/g8.jpg",
+      "PackagePath": "staticwebassets/assets/images/g8.jpg"
+    },
+    {
+      "Id": "/Users/his/Projects/TraversalCoreProject/TraversalCoreProject/wwwroot/assets/images/g9.jpg",
+      "PackagePath": "staticwebassets/assets/images/g9.jpg"
+    },
+    {
+      "Id": "/Users/his/Projects/TraversalCoreProject/TraversalCoreProject/wwwroot/assets/images/img-sprite.png",
+      "PackagePath": "staticwebassets/assets/images/img-sprite.png"
+    },
+    {
+      "Id": "/Users/his/Projects/TraversalCoreProject/TraversalCoreProject/wwwroot/assets/images/team1.jpg",
+      "PackagePath": "staticwebassets/assets/images/team1.jpg"
+    },
+    {
+      "Id": "/Users/his/Projects/TraversalCoreProject/TraversalCoreProject/wwwroot/assets/images/team2.jpg",
+      "PackagePath": "staticwebassets/assets/images/team2.jpg"
+    },
+    {
+      "Id": "/Users/his/Projects/TraversalCoreProject/TraversalCoreProject/wwwroot/assets/images/team3.jpg",
+      "PackagePath": "staticwebassets/assets/images/team3.jpg"
+    },
+    {
+      "Id": "/Users/his/Projects/TraversalCoreProject/TraversalCoreProject/wwwroot/assets/images/team4.jpg",
+      "PackagePath": "staticwebassets/assets/images/team4.jpg"
+    },
+    {
+      "Id": "/Users/his/Projects/TraversalCoreProject/TraversalCoreProject/wwwroot/assets/js/all.js",
+      "PackagePath": "staticwebassets/assets/js/all.js"
+    },
+    {
+      "Id": "/Users/his/Projects/TraversalCoreProject/TraversalCoreProject/wwwroot/assets/js/app.js",
+      "PackagePath": "staticwebassets/assets/js/app.js"
+    },
+    {
+      "Id": "/Users/his/Projects/TraversalCoreProject/TraversalCoreProject/wwwroot/assets/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/assets/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/his/Projects/TraversalCoreProject/TraversalCoreProject/wwwroot/assets/js/jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets/assets/js/jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "/Users/his/Projects/TraversalCoreProject/TraversalCoreProject/wwwroot/assets/js/jquery.countup.js",
+      "PackagePath": "staticwebassets/assets/js/jquery.countup.js"
+    },
+    {
+      "Id": "/Users/his/Projects/TraversalCoreProject/TraversalCoreProject/wwwroot/assets/js/jquery.min.js",
+      "PackagePath": "staticwebassets/assets/js/jquery.min.js"
+    },
+    {
+      "Id": "/Users/his/Projects/TraversalCoreProject/TraversalCoreProject/wwwroot/assets/js/jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets/assets/js/jquery.waypoints.min.js"
+    },
+    {
+      "Id": "/Users/his/Projects/TraversalCoreProject/TraversalCoreProject/wwwroot/assets/js/jquery.zoomslider.min.js",
+      "PackagePath": "staticwebassets/assets/js/jquery.zoomslider.min.js"
+    },
+    {
+      "Id": "/Users/his/Projects/TraversalCoreProject/TraversalCoreProject/wwwroot/assets/js/lightbox-plus-jquery.min.js",
+      "PackagePath": "staticwebassets/assets/js/lightbox-plus-jquery.min.js"
+    },
+    {
+      "Id": "/Users/his/Projects/TraversalCoreProject/TraversalCoreProject/wwwroot/assets/js/main.js",
+      "PackagePath": "staticwebassets/assets/js/main.js"
+    },
+    {
+      "Id": "/Users/his/Projects/TraversalCoreProject/TraversalCoreProject/wwwroot/assets/js/modernizr-2.6.2.min.js",
+      "PackagePath": "staticwebassets/assets/js/modernizr-2.6.2.min.js"
+    },
+    {
+      "Id": "/Users/his/Projects/TraversalCoreProject/TraversalCoreProject/wwwroot/assets/js/owl.carousel.js",
+      "PackagePath": "staticwebassets/assets/js/owl.carousel.js"
+    },
+    {
+      "Id": "/Users/his/Projects/TraversalCoreProject/TraversalCoreProject/wwwroot/assets/js/popper.min.js",
+      "PackagePath": "staticwebassets/assets/js/popper.min.js"
+    },
+    {
+      "Id": "/Users/his/Projects/TraversalCoreProject/TraversalCoreProject/wwwroot/assets/js/theme-change.js",
+      "PackagePath": "staticwebassets/assets/js/theme-change.js"
+    },
+    {
+      "Id": "/Users/his/Projects/TraversalCoreProject/TraversalCoreProject/wwwroot/contact.html",
+      "PackagePath": "staticwebassets/contact.html"
+    },
+    {
       "Id": "/Users/his/Projects/TraversalCoreProject/TraversalCoreProject/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
     {
       "Id": "/Users/his/Projects/TraversalCoreProject/TraversalCoreProject/wwwroot/favicon.ico",
       "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/his/Projects/TraversalCoreProject/TraversalCoreProject/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
     },
     {
       "Id": "/Users/his/Projects/TraversalCoreProject/TraversalCoreProject/wwwroot/js/site.js",
@@ -243,6 +451,10 @@
     {
       "Id": "/Users/his/Projects/TraversalCoreProject/TraversalCoreProject/wwwroot/lib/jquery/dist/jquery.min.map",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/Users/his/Projects/TraversalCoreProject/TraversalCoreProject/wwwroot/services.html",
+      "PackagePath": "staticwebassets/services.html"
     },
     {
       "Id": "obj/Debug/net6.0/staticwebassets/msbuild.TraversalCoreProject.Microsoft.AspNetCore.StaticWebAssets.props",
