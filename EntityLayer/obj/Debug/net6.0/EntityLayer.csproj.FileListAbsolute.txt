@@ -1,0 +1,14 @@
+/Users/his/Projects/TraversalCoreProject/EntityLayer/bin/Debug/net6.0/EntityLayer.deps.json
+/Users/his/Projects/TraversalCoreProject/EntityLayer/bin/Debug/net6.0/EntityLayer.runtimeconfig.json
+/Users/his/Projects/TraversalCoreProject/EntityLayer/bin/Debug/net6.0/EntityLayer.dll
+/Users/his/Projects/TraversalCoreProject/EntityLayer/bin/Debug/net6.0/EntityLayer.pdb
+/Users/his/Projects/TraversalCoreProject/EntityLayer/obj/Debug/net6.0/EntityLayer.csproj.AssemblyReference.cache
+/Users/his/Projects/TraversalCoreProject/EntityLayer/obj/Debug/net6.0/EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/his/Projects/TraversalCoreProject/EntityLayer/obj/Debug/net6.0/EntityLayer.AssemblyInfoInputs.cache
+/Users/his/Projects/TraversalCoreProject/EntityLayer/obj/Debug/net6.0/EntityLayer.AssemblyInfo.cs
+/Users/his/Projects/TraversalCoreProject/EntityLayer/obj/Debug/net6.0/EntityLayer.csproj.CoreCompileInputs.cache
+/Users/his/Projects/TraversalCoreProject/EntityLayer/obj/Debug/net6.0/EntityLayer.dll
+/Users/his/Projects/TraversalCoreProject/EntityLayer/obj/Debug/net6.0/refint/EntityLayer.dll
+/Users/his/Projects/TraversalCoreProject/EntityLayer/obj/Debug/net6.0/EntityLayer.pdb
+/Users/his/Projects/TraversalCoreProject/EntityLayer/obj/Debug/net6.0/EntityLayer.genruntimeconfig.cache
+/Users/his/Projects/TraversalCoreProject/EntityLayer/obj/Debug/net6.0/ref/EntityLayer.dll

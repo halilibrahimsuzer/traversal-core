@@ -1,0 +1,12 @@
+/Users/his/Projects/TraversalCoreProject/DataAccessLayer/bin/Debug/net6.0/DataAccessLayer.deps.json
+/Users/his/Projects/TraversalCoreProject/DataAccessLayer/bin/Debug/net6.0/DataAccessLayer.dll
+/Users/his/Projects/TraversalCoreProject/DataAccessLayer/bin/Debug/net6.0/DataAccessLayer.pdb
+/Users/his/Projects/TraversalCoreProject/DataAccessLayer/obj/Debug/net6.0/DataAccessLayer.csproj.AssemblyReference.cache
+/Users/his/Projects/TraversalCoreProject/DataAccessLayer/obj/Debug/net6.0/DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/his/Projects/TraversalCoreProject/DataAccessLayer/obj/Debug/net6.0/DataAccessLayer.AssemblyInfoInputs.cache
+/Users/his/Projects/TraversalCoreProject/DataAccessLayer/obj/Debug/net6.0/DataAccessLayer.AssemblyInfo.cs
+/Users/his/Projects/TraversalCoreProject/DataAccessLayer/obj/Debug/net6.0/DataAccessLayer.csproj.CoreCompileInputs.cache
+/Users/his/Projects/TraversalCoreProject/DataAccessLayer/obj/Debug/net6.0/DataAccessLayer.dll
+/Users/his/Projects/TraversalCoreProject/DataAccessLayer/obj/Debug/net6.0/refint/DataAccessLayer.dll
+/Users/his/Projects/TraversalCoreProject/DataAccessLayer/obj/Debug/net6.0/DataAccessLayer.pdb
+/Users/his/Projects/TraversalCoreProject/DataAccessLayer/obj/Debug/net6.0/ref/DataAccessLayer.dll
