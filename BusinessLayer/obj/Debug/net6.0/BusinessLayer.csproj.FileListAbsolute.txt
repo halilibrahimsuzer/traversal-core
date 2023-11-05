@@ -10,3 +10,10 @@
 /Users/his/Projects/TraversalCoreProject/BusinessLayer/obj/Debug/net6.0/refint/BusinessLayer.dll
 /Users/his/Projects/TraversalCoreProject/BusinessLayer/obj/Debug/net6.0/BusinessLayer.pdb
 /Users/his/Projects/TraversalCoreProject/BusinessLayer/obj/Debug/net6.0/ref/BusinessLayer.dll
+/Users/his/Projects/TraversalCoreProject/BusinessLayer/bin/Debug/net6.0/BusinessLayer.runtimeconfig.json
+/Users/his/Projects/TraversalCoreProject/BusinessLayer/obj/Debug/net6.0/BusinessLayer.genruntimeconfig.cache
+/Users/his/Projects/TraversalCoreProject/BusinessLayer/bin/Debug/net6.0/DataAccessLayer.dll
+/Users/his/Projects/TraversalCoreProject/BusinessLayer/bin/Debug/net6.0/EntityLayer.dll
+/Users/his/Projects/TraversalCoreProject/BusinessLayer/bin/Debug/net6.0/DataAccessLayer.pdb
+/Users/his/Projects/TraversalCoreProject/BusinessLayer/bin/Debug/net6.0/EntityLayer.pdb
+/Users/his/Projects/TraversalCoreProject/BusinessLayer/obj/Debug/net6.0/BusinessLayer.csproj.CopyComplete

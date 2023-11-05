@@ -10,3 +10,8 @@
 /Users/his/Projects/TraversalCoreProject/DataAccessLayer/obj/Debug/net6.0/refint/DataAccessLayer.dll
 /Users/his/Projects/TraversalCoreProject/DataAccessLayer/obj/Debug/net6.0/DataAccessLayer.pdb
 /Users/his/Projects/TraversalCoreProject/DataAccessLayer/obj/Debug/net6.0/ref/DataAccessLayer.dll
+/Users/his/Projects/TraversalCoreProject/DataAccessLayer/bin/Debug/net6.0/DataAccessLayer.runtimeconfig.json
+/Users/his/Projects/TraversalCoreProject/DataAccessLayer/obj/Debug/net6.0/DataAccessLayer.genruntimeconfig.cache
+/Users/his/Projects/TraversalCoreProject/DataAccessLayer/bin/Debug/net6.0/EntityLayer.dll
+/Users/his/Projects/TraversalCoreProject/DataAccessLayer/bin/Debug/net6.0/EntityLayer.pdb
+/Users/his/Projects/TraversalCoreProject/DataAccessLayer/obj/Debug/net6.0/DataAccessLayer.csproj.CopyComplete
