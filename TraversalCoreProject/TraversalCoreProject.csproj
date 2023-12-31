@@ -34,9 +34,11 @@
   </ItemGroup>
   <ItemGroup>
     <None Remove="Views\Default\" />
+    <None Remove="Views\LayoutPartial\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\Default\" />
+    <Folder Include="Views\LayoutPartial\" />
   </ItemGroup>
   <ItemGroup>
     <Content Update="Views\Shared\_Layout.cshtml">
