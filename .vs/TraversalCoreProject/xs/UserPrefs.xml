@@ -1,29 +1,36 @@
-﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{C2C5A162-01D4-4F0E-A5ED-9E77D88B9B11}|Default">
+﻿<Properties StartupConfiguration="{C2C5A162-01D4-4F0E-A5ED-9E77D88B9B11}|Default" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TraversalCoreProject PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="EntityLayer/Concrete/About.cs">
+  <AuthorInfo Name="Halil Ibrahim Suzer" Email="halilibrahimsuzer@gmail.com" Copyright="" Company="" Trademark="" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DataAccessLayer/Concrete/Context.cs">
     <Files>
-      <File FileName="EntityLayer/Concrete/Destination.cs" Line="13" Column="21" />
-      <File FileName="EntityLayer/Concrete/About.cs" Line="16" Column="1" />
+      <File FileName="DataAccessLayer/Concrete/Context.cs" Line="14" Column="23" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="TraversalCoreProject">
-            <Node name="DataAccessLayer" expanded="True">
-              <Node name="Absract" selected="True" />
-            </Node>
-            <Node name="EntityLayer" expanded="True">
+          <Node name="TraversalCoreProject" expanded="True" selected="True">
+            <Node name="DataAccessLayer">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
               <Node name="Concrete" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+            </Node>
+            <Node name="EntityLayer">
+              <Node name="Concrete" expanded="True" />
+            </Node>
+            <Node name="TraversalCoreProject">
+              <Node name="wwwroot" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.TraversalCoreProject PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
 </Properties>
