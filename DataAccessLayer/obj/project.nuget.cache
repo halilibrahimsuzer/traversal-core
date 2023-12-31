@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "bNvyp4Zq1iroRs6yMZehMyJ8jdNsn43bc+7XKU0C+B0BWmKX9CYglz44tNpw5KYpa9lrEI0ev1/IybZ0yapIHw==",
+  "dgSpecHash": "oan4iSSPhsCkPGsI7KsJleEHs+Ru2uLrZjOCRXdH2vGG8q/z1FIj/3fYYybCjJuq2QuPC12+jqksW/lGUkxe3w==",
   "success": true,
   "projectFilePath": "/Users/his/Projects/TraversalCoreProject/DataAccessLayer/DataAccessLayer.csproj",
   "expectedPackageFiles": [
+    "/Users/his/.nuget/packages/fluentvalidation/10.3.6/fluentvalidation.10.3.6.nupkg.sha512",
+    "/Users/his/.nuget/packages/fluentvalidation.aspnetcore/10.3.6/fluentvalidation.aspnetcore.10.3.6.nupkg.sha512",
+    "/Users/his/.nuget/packages/fluentvalidation.dependencyinjectionextensions/10.3.6/fluentvalidation.dependencyinjectionextensions.10.3.6.nupkg.sha512",
     "/Users/his/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/his/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
     "/Users/his/.nuget/packages/microsoft.data.sqlclient/2.1.4/microsoft.data.sqlclient.2.1.4.nupkg.sha512",
