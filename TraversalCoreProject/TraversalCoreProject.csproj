@@ -35,10 +35,14 @@
   <ItemGroup>
     <None Remove="Views\Default\" />
     <None Remove="Views\LayoutPartial\" />
+    <None Remove="Views\Shared\Components\" />
+    <None Remove="Views\Shared\Components\_SliderPartial\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\Default\" />
     <Folder Include="Views\LayoutPartial\" />
+    <Folder Include="Views\Shared\Components\" />
+    <Folder Include="Views\Shared\Components\_SliderPartial\" />
   </ItemGroup>
   <ItemGroup>
     <Content Update="Views\Shared\_Layout.cshtml">
